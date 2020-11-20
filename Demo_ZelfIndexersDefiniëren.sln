@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_ZelfIndexersDefiniëren", "Demo_ZelfIndexersDefiniëren\Demo_ZelfIndexersDefiniëren.csproj", "{248290E9-0263-4E7E-8493-D50F3D729F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening_Bank_Indexer", "Oefening_Bank_Indexer\Oefening_Bank_Indexer.csproj", "{8DDF94A0-51EC-4678-A75A-E75DEB89865C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{248290E9-0263-4E7E-8493-D50F3D729F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248290E9-0263-4E7E-8493-D50F3D729F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248290E9-0263-4E7E-8493-D50F3D729F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248290E9-0263-4E7E-8493-D50F3D729F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDF94A0-51EC-4678-A75A-E75DEB89865C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDF94A0-51EC-4678-A75A-E75DEB89865C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDF94A0-51EC-4678-A75A-E75DEB89865C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDF94A0-51EC-4678-A75A-E75DEB89865C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D96BAF5-6906-4F84-892F-F086C41D2AA0}
+	EndGlobalSection
+EndGlobal
